@@ -1,4 +1,4 @@
-# Website Screenshot and Analysis Tool
+# Website Brand Style Analysis Tool
 
 This project is a Python-based tool designed to analyse websites, to extract branding information such as company name, primary and secondary colors, fonts, and overall design.
 
